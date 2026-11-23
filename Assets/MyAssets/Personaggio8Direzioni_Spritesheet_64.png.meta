@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 7b11aa15ccc98be448003204c6cee9ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9160033393148836275
+    second: Personaggio8Direzioni_Spritesheet_64_0
+  - first:
+      213: -6732473940729270018
+    second: Personaggio8Direzioni_Spritesheet_64_1
+  - first:
+      213: 6224601760414085212
+    second: Personaggio8Direzioni_Spritesheet_64_2
+  - first:
+      213: -8370181695098426126
+    second: Personaggio8Direzioni_Spritesheet_64_3
+  - first:
+      213: 7643361727356587347
+    second: Personaggio8Direzioni_Spritesheet_64_4
+  - first:
+      213: 2018821725068234062
+    second: Personaggio8Direzioni_Spritesheet_64_5
+  - first:
+      213: 7555385756946793375
+    second: Personaggio8Direzioni_Spritesheet_64_6
+  - first:
+      213: 6761460635799256330
+    second: Personaggio8Direzioni_Spritesheet_64_7
+  - first:
+      213: 4849712413617505200
+    second: Personaggio8Direzioni_Spritesheet_64_8
+  - first:
+      213: -218608364035952538
+    second: Personaggio8Direzioni_Spritesheet_64_9
+  - first:
+      213: 8866448087507051014
+    second: Personaggio8Direzioni_Spritesheet_64_10
+  - first:
+      213: -5403891719753669904
+    second: Personaggio8Direzioni_Spritesheet_64_11
+  - first:
+      213: 1959963357017540667
+    second: Personaggio8Direzioni_Spritesheet_64_12
+  - first:
+      213: -6906390773766877922
+    second: Personaggio8Direzioni_Spritesheet_64_13
+  - first:
+      213: -7964337869416167630
+    second: Personaggio8Direzioni_Spritesheet_64_14
+  - first:
+      213: -2343969302572812959
+    second: Personaggio8Direzioni_Spritesheet_64_15
+  - first:
+      213: -8534576741734071214
+    second: Personaggio8Direzioni_Spritesheet_64_16
+  - first:
+      213: 8406205277392402513
+    second: Personaggio8Direzioni_Spritesheet_64_17
+  - first:
+      213: 8716088576769323657
+    second: Personaggio8Direzioni_Spritesheet_64_18
+  - first:
+      213: -3513537493935797418
+    second: Personaggio8Direzioni_Spritesheet_64_19
+  - first:
+      213: 3568361826833602496
+    second: Personaggio8Direzioni_Spritesheet_64_20
+  - first:
+      213: -3422967787091850330
+    second: Personaggio8Direzioni_Spritesheet_64_21
+  - first:
+      213: -3248192291062744021
+    second: Personaggio8Direzioni_Spritesheet_64_22
+  - first:
+      213: 6460890103692334777
+    second: Personaggio8Direzioni_Spritesheet_64_23
+  - first:
+      213: -4738044074050415337
+    second: Personaggio8Direzioni_Spritesheet_64_24
+  - first:
+      213: 8044250519092256899
+    second: Personaggio8Direzioni_Spritesheet_64_25
+  - first:
+      213: -4950582594370728032
+    second: Personaggio8Direzioni_Spritesheet_64_26
+  - first:
+      213: 8079908851840805522
+    second: Personaggio8Direzioni_Spritesheet_64_27
+  - first:
+      213: 4601291000758658281
+    second: Personaggio8Direzioni_Spritesheet_64_28
+  - first:
+      213: -5422474606911017126
+    second: Personaggio8Direzioni_Spritesheet_64_29
+  - first:
+      213: 7202795954981087278
+    second: Personaggio8Direzioni_Spritesheet_64_30
+  - first:
+      213: 549569088038507136
+    second: Personaggio8Direzioni_Spritesheet_64_31
+  - first:
+      213: 4700663287064961489
+    second: Personaggio8Direzioni_Spritesheet_64_32
+  - first:
+      213: 9172320450955748524
+    second: Personaggio8Direzioni_Spritesheet_64_33
+  - first:
+      213: 500774240022376298
+    second: Personaggio8Direzioni_Spritesheet_64_34
+  - first:
+      213: -7795154133836371944
+    second: Personaggio8Direzioni_Spritesheet_64_35
+  - first:
+      213: -6273962584217264834
+    second: Personaggio8Direzioni_Spritesheet_64_36
+  - first:
+      213: -7582839338009819788
+    second: Personaggio8Direzioni_Spritesheet_64_37
+  - first:
+      213: -2564532577193577431
+    second: Personaggio8Direzioni_Spritesheet_64_38
+  - first:
+      213: 591553968183250967
+    second: Personaggio8Direzioni_Spritesheet_64_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46c5ae292601e080800000000000000
+      internalID: -9160033393148836275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0f14ffe927192a0800000000000000
+      internalID: -6732473940729270018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50b0cd525a326650800000000000000
+      internalID: 6224601760414085212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc6e2e681427db80800000000000000
+      internalID: -8370181695098426126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dc7e8aefca21a60800000000000000
+      internalID: 7643361727356587347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d888ba9ab440c10800000000000000
+      internalID: 2018821725068234062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f930cd7d05f1ad860800000000000000
+      internalID: 7555385756946793375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0df99fdf9885dd50800000000000000
+      internalID: 6761460635799256330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3497cceb3ad4340800000000000000
+      internalID: 4849712413617505200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66035b4e9d857fcf0800000000000000
+      internalID: -218608364035952538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602ac432f83fb0b70800000000000000
+      internalID: 8866448087507051014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f26867ac158105b0800000000000000
+      internalID: -5403891719753669904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3800d3f940333b10800000000000000
+      internalID: 1959963357017540667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d0791de229720a0800000000000000
+      internalID: -6906390773766877922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237024697ecf87190800000000000000
+      internalID: -7964337869416167630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1653ab3965c887fd0800000000000000
+      internalID: -2343969302572812959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25441a8eba71f8980800000000000000
+      internalID: -8534576741734071214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158fcfb6927d8a470800000000000000
+      internalID: 8406205277392402513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982fc297164c5f870800000000000000
+      internalID: 8716088576769323657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bc0f8c3486d3fc0800000000000000
+      internalID: -3513537493935797418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c71b7eec2e558130800000000000000
+      internalID: 3568361826833602496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab09cceeec2f70d0800000000000000
+      internalID: -3422967787091850330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cfa09225a1ce2d0800000000000000
+      internalID: -3248192291062744021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b61b6b6151b9a950800000000000000
+      internalID: 6460890103692334777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715941494061f3eb0800000000000000
+      internalID: -4738044074050415337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380eeb21a3be2af60800000000000000
+      internalID: 8044250519092256899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af0d471c5ffb4bb0800000000000000
+      internalID: -4950582594370728032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6183aa4a912070800000000000000
+      internalID: 8079908851840805522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4eb6859c11bdf30800000000000000
+      internalID: 4601291000758658281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f2e7313108fb4b0800000000000000
+      internalID: -5422474606911017126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28a44e42c875f360800000000000000
+      internalID: 7202795954981087278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08212108c2670a700800000000000000
+      internalID: 549569088038507136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d12a3aba5c1c3140800000000000000
+      internalID: 4700663287064961489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4a4456ad0aa4f70800000000000000
+      internalID: 9172320450955748524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f2331a48b13f600800000000000000
+      internalID: 500774240022376298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818e343ad9c02d390800000000000000
+      internalID: -7795154133836371944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d53a145486ee8a0800000000000000
+      internalID: -6273962584217264834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47501153cc754c690800000000000000
+      internalID: -7582839338009819788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924b5716533f86cd0800000000000000
+      internalID: -2564532577193577431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaggio8Direzioni_Spritesheet_64_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710190b233f953800800000000000000
+      internalID: 591553968183250967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e43c273d319e4d04ca29099e48cdd2f6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":5.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Personaggio8Direzioni_Spritesheet_64_0: -9160033393148836275
+      Personaggio8Direzioni_Spritesheet_64_1: -6732473940729270018
+      Personaggio8Direzioni_Spritesheet_64_10: 8866448087507051014
+      Personaggio8Direzioni_Spritesheet_64_11: -5403891719753669904
+      Personaggio8Direzioni_Spritesheet_64_12: 1959963357017540667
+      Personaggio8Direzioni_Spritesheet_64_13: -6906390773766877922
+      Personaggio8Direzioni_Spritesheet_64_14: -7964337869416167630
+      Personaggio8Direzioni_Spritesheet_64_15: -2343969302572812959
+      Personaggio8Direzioni_Spritesheet_64_16: -8534576741734071214
+      Personaggio8Direzioni_Spritesheet_64_17: 8406205277392402513
+      Personaggio8Direzioni_Spritesheet_64_18: 8716088576769323657
+      Personaggio8Direzioni_Spritesheet_64_19: -3513537493935797418
+      Personaggio8Direzioni_Spritesheet_64_2: 6224601760414085212
+      Personaggio8Direzioni_Spritesheet_64_20: 3568361826833602496
+      Personaggio8Direzioni_Spritesheet_64_21: -3422967787091850330
+      Personaggio8Direzioni_Spritesheet_64_22: -3248192291062744021
+      Personaggio8Direzioni_Spritesheet_64_23: 6460890103692334777
+      Personaggio8Direzioni_Spritesheet_64_24: -4738044074050415337
+      Personaggio8Direzioni_Spritesheet_64_25: 8044250519092256899
+      Personaggio8Direzioni_Spritesheet_64_26: -4950582594370728032
+      Personaggio8Direzioni_Spritesheet_64_27: 8079908851840805522
+      Personaggio8Direzioni_Spritesheet_64_28: 4601291000758658281
+      Personaggio8Direzioni_Spritesheet_64_29: -5422474606911017126
+      Personaggio8Direzioni_Spritesheet_64_3: -8370181695098426126
+      Personaggio8Direzioni_Spritesheet_64_30: 7202795954981087278
+      Personaggio8Direzioni_Spritesheet_64_31: 549569088038507136
+      Personaggio8Direzioni_Spritesheet_64_32: 4700663287064961489
+      Personaggio8Direzioni_Spritesheet_64_33: 9172320450955748524
+      Personaggio8Direzioni_Spritesheet_64_34: 500774240022376298
+      Personaggio8Direzioni_Spritesheet_64_35: -7795154133836371944
+      Personaggio8Direzioni_Spritesheet_64_36: -6273962584217264834
+      Personaggio8Direzioni_Spritesheet_64_37: -7582839338009819788
+      Personaggio8Direzioni_Spritesheet_64_38: -2564532577193577431
+      Personaggio8Direzioni_Spritesheet_64_39: 591553968183250967
+      Personaggio8Direzioni_Spritesheet_64_4: 7643361727356587347
+      Personaggio8Direzioni_Spritesheet_64_5: 2018821725068234062
+      Personaggio8Direzioni_Spritesheet_64_6: 7555385756946793375
+      Personaggio8Direzioni_Spritesheet_64_7: 6761460635799256330
+      Personaggio8Direzioni_Spritesheet_64_8: 4849712413617505200
+      Personaggio8Direzioni_Spritesheet_64_9: -218608364035952538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

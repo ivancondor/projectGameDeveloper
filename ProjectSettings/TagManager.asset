@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Giocatore
+  - Nemico
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player_P0
+  - Player_P1
+  - Muri_P0
+  - Muri_P1
+  - Scale
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terreno
+    uniqueID: 3252404575
+    locked: 0
+  - name: Personaggio_P0
+    uniqueID: 3407690973
+    locked: 0
+  - name: Piattaforma
+    uniqueID: 1634505589
+    locked: 0
+  - name: Personaggio_P1
+    uniqueID: 1972757055
+    locked: 0
+  m_RenderingLayers:
+  - Default
